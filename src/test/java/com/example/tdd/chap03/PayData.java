@@ -11,7 +11,7 @@ import java.time.LocalDate;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class PayDate {
+public class PayData {
     private LocalDate firstBillingDate;
     private LocalDate billingDate;
     private int payAmount;
