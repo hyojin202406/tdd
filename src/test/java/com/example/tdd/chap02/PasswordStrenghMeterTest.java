@@ -1,7 +1,7 @@
 package com.example.tdd.chap02;
 
-import com.example.tdd.PasswordStrengh;
-import com.example.tdd.PasswordStrenghMeter;
+import com.example.tdd.password.PasswordStrengh;
+import com.example.tdd.password.PasswordStrenghMeter;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

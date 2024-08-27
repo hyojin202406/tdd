@@ -39,6 +39,9 @@ dependencies {
 
     testCompileOnly 'org.projectlombok:lombok'
     testAnnotationProcessor 'org.projectlombok:lombok'
+
+    // mockito 의존 설정
+    testImplementation('org.mockito:mockito-core:2.26.0')
 }
 
 tasks.named('test') {

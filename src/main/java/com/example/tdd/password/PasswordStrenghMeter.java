@@ -1,4 +1,4 @@
-package com.example.tdd;
+package com.example.tdd.password;
 
 public class PasswordStrenghMeter {
     public PasswordStrengh meter(String s) {
